@@ -1,6 +1,6 @@
 # DINAMITA-PROYECTO-E.C
 # DINAMITA 🧨
-Proyecto 4.° semestre (Ing. Sistemas - Unilibre): modelado de temperatura en procesadores con la Ley de Enfriamiento de Newton y validación empírica [source: 2].
+Proyecto 4.° semestre (Ing. Sistemas - Unilibre): modelado de temperatura en procesadores con la Ley de Enfriamiento de Newton y validación empírica 
 
 ## ⚡ Flujo
 1. **Captura:** CSV de Open Hardware Monitor (CPU Temp + Carga) [source: 2].
